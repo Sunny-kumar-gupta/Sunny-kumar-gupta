@@ -1,7 +1,7 @@
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/5346f5a9b63e9e93ff8265ebb05eeda7fc03e48dfe766ba177c788e5c65c6c86/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f73313630302f323030305f36303070782e676966"><img src="https://camo.githubusercontent.com/5346f5a9b63e9e93ff8265ebb05eeda7fc03e48dfe766ba177c788e5c65c6c86/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f73313630302f323030305f36303070782e676966" alt="MasterHead" style="max-width: 100%;"></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sunny</h1>
 <h3 align="center">I'm a Web Developer and Coder.</h3>
-
-
+<img src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" height="400px" align="right">
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[MERN STACK](https://reactjs.org/)**
@@ -19,12 +19,10 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
@@ -32,9 +30,7 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"    alt="mongodb" width="48" height="48"/> </a> 
    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"  alt="express" width="40" height="40"/> </a>  
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
  
    
 </p>
